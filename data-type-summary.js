@@ -14,6 +14,9 @@ let agePlus = age++
 let ageMinus = --age
 // console.log(` Before Prefix: ${age} After Prefix: ${ageMinus}`);
 
+// To print variables along with it text can use `` and them ${}
+
+
 // Non-premitive data type === Reference type
 let arrAy = [1,2,3,4,5]
 let obJect = {name: "Ayaan", age: 10}
